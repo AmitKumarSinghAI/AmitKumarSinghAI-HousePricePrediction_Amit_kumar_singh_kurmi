@@ -11,7 +11,7 @@ The main goal of this project is to analyze the housing dataset, identify the fa
 ## 📂 Project Structure
 
 ```text
-HousePricePrediction_AmitYt/
+HousePricePrediction_Amit_kumar_singh_kurmi/
 │
 ├── analysis.ipynb
 ├── Housing.csv
@@ -21,6 +21,7 @@ HousePricePrediction_AmitYt/
     ├── price_distribution.png
     ├── correlation_heatmap.png
     └── area_vs_price.png
+    |__ scatter_plot.png 
 ```
 
 ---
