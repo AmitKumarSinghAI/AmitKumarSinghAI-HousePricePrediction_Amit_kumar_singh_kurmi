@@ -194,6 +194,4 @@ Run all cells to reproduce the analysis and results.
 
 ---
 
-## 📜 License
 
-This project is created for educational and learning purposes.
