@@ -190,7 +190,7 @@ Run all cells to reproduce the analysis and results.
 
 ## 👨‍💻 Author
 
-Amit Kumar Singh Kurmi
+*** Amit Kumar Singh Kurmi ***
 
 ---
 
